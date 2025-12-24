@@ -1,0 +1,19 @@
+# File Python sementara
+__pycache__/
+*.pyc
+
+# Dataset (JANGAN upload)
+data/images/
+data/labels/
+
+# Model hasil training
+*.pt
+*.onnx
+*.tflite
+
+# Virtual environment
+venv/
+.venv/
+
+# File VS Code
+.vscode/
