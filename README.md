@@ -12,5 +12,4 @@ Proyek Akhir untuk mendeteksi sampah menggunakan YOLO.
 
 \- models/ : model AI (weight pt)
 
-Blas
 
