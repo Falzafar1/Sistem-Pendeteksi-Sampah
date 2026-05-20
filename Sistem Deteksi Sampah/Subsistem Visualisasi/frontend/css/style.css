@@ -386,7 +386,7 @@ header::after {
   line-height: 1.5;
 }
 
-/* Grid 4 kolom untuk nampilin frame */
+/* Grid 4 kolom untuk tampilan frame hasil deteksi */
 #frames-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
